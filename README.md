@@ -14,4 +14,4 @@ to be able to tackle these questions.
 
 This guide will be updated from time to time and will cover (hopefully) all topics in the end.
 
-One line about myself: I am a PhD graduate in Actuarial Science with a BSc and MSc in mathematics.
+One line about myself: I am a PhD graduate in Actuarial Science with a BSc and MSc in mathematics and currently working as a Quant Analyst.
